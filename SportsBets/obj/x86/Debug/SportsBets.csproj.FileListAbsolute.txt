@@ -1,0 +1,9 @@
+C:\Users\KMijajlevska\Dropbox\Documents\FINKI\IV. s\Vizuelno programiranje\SportsBets\SportsBets\bin\Debug\SportsBets.exe
+C:\Users\KMijajlevska\Dropbox\Documents\FINKI\IV. s\Vizuelno programiranje\SportsBets\SportsBets\bin\Debug\SportsBets.pdb
+C:\Users\KMijajlevska\Dropbox\Documents\FINKI\IV. s\Vizuelno programiranje\SportsBets\SportsBets\obj\x86\Debug\SportsBets.csprojResolveAssemblyReference.cache
+C:\Users\KMijajlevska\Dropbox\Documents\FINKI\IV. s\Vizuelno programiranje\SportsBets\SportsBets\obj\x86\Debug\SportsBets.AddTeamForm.resources
+C:\Users\KMijajlevska\Dropbox\Documents\FINKI\IV. s\Vizuelno programiranje\SportsBets\SportsBets\obj\x86\Debug\SportsBets.Form1.resources
+C:\Users\KMijajlevska\Dropbox\Documents\FINKI\IV. s\Vizuelno programiranje\SportsBets\SportsBets\obj\x86\Debug\SportsBets.Properties.Resources.resources
+C:\Users\KMijajlevska\Dropbox\Documents\FINKI\IV. s\Vizuelno programiranje\SportsBets\SportsBets\obj\x86\Debug\SportsBets.csproj.GenerateResource.Cache
+C:\Users\KMijajlevska\Dropbox\Documents\FINKI\IV. s\Vizuelno programiranje\SportsBets\SportsBets\obj\x86\Debug\SportsBets.exe
+C:\Users\KMijajlevska\Dropbox\Documents\FINKI\IV. s\Vizuelno programiranje\SportsBets\SportsBets\obj\x86\Debug\SportsBets.pdb
